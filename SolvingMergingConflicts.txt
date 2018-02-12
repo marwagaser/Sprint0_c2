@@ -5,7 +5,6 @@ this line is for you to add the sentence that will cause the merge conflict
 MarwaGaser
 noransadek
 abdullah khaled
-abdullah khaled again
-Alaa Raed Dawood 
+i changed this line -- add your name here again instead of this line
 //
 when you do finish please pull before you push 
