@@ -3,5 +3,6 @@ when you solve a merging coflict you commit again
 this line is for you to add the sentence that will cause the merge conflict
 //
 abdullah khaled
+abdullah khaled again
 //
 when you do finish please pull before you push 
