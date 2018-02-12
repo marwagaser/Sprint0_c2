@@ -2,8 +2,10 @@ this file is for conflict merging
 when you solve a merging coflict you commit again
 this line is for you to add the sentence that will cause the merge conflict
 //
+MarwaGaser
 noransadek
 abdullah khaled
 abdullah khaled again
+Alaa change this into you name only
 //
 when you do finish please pull before you push 
