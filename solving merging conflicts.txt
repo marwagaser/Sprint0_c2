@@ -1,7 +1,0 @@
-this file is for conflict merging
-when you solve a merging coflict you commit again
-this line is for you to add the sentence that will cause the merge conflict
-//
-
-//
-when you do finish please pull before you push 
