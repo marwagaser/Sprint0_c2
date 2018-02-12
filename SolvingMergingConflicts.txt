@@ -2,8 +2,7 @@ this file is for conflict merging
 when you solve a merging coflict you commit again
 this line is for you to add the sentence that will cause the merge conflict
 //
-MarwaGaser
-noransadek
+hello i am a merge solver
 abdullah khaled
 i changed your name delete this and leave the line with your name
 //
