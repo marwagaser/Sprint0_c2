@@ -4,6 +4,7 @@ this line is for you to add the sentence that will cause the merge conflict
 //
 hello i am a merge solver
 abdullah khaled
-i changed your name delete this and leave the line with your name
+allaaraed
+Alaa Raed Dawood
 //
 when you do finish please pull before you push 
